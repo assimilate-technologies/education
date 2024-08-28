@@ -35,7 +35,7 @@
    "in_list_view": 1,
    "label": "Student Group",
    "options": "Student Group",
-   "reqd": 1
+   "reqd": 0
   },
   {
    "fieldname": "course",
@@ -46,11 +46,11 @@
    "reqd": 1
   },
   {
-   "fieldname": "program",
+   "fieldname": "Program",
    "fieldtype": "Link",
    "label": "Program",
    "options": "Program",
-   "read_only": 1
+   "read_only": 0
   },
   {
    "fieldname": "column_break_3",
